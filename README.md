@@ -18,7 +18,7 @@ I am currently halfway through the Front-End Software Program with [Turing Schoo
 - Object-Oriented Programming (OOP)
 - Communication and Collaboration
 
-### Getting to know a little more about me ⤵
+### 🧐 Getting to know a little more about me:
 
 - 🎉 I am excited about edTech and accessibility. As a former educator 📚, I'm very interested in making learning more engaging and beneficial for students and helping educators take on a tough job!
 
