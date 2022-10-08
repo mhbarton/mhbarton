@@ -13,24 +13,22 @@ I am currently halfway through the Front-End Software Program with [Turing Schoo
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Some Other Skills:
+### 💡 Some Other Skills:
 - Test-Driven Development (TDD)
 - Object-Oriented Programming (OOP)
 - Communication and Collaboration
 
-### 🎉 I am excited about edTech and accessibility. As a former educator 📚 I'm very interested in making learning more engaging and beneficial for students and helping educators take on a tough job!
+### Getting to know a little more about me:
 
-### 💬 Ask me about education and how we can better offer learning opportunities for future generations!
+- 🎉 I am excited about edTech and accessibility. As a former educator 📚 I'm very interested in making learning more engaging and beneficial for students and helping educators take on a tough job!
 
-### 📫 How to reach me: mhood24@gmail.com | [LinkedIn](https://www.linkedin.com/in/marianne-barton-1307/) 
+- 💬 Ask me about education and how we can better offer learning opportunities for future generations!
 
-### 😄 Pronouns: she/her
+- 📫 How to reach me: mhood24@gmail.com | [LinkedIn](https://www.linkedin.com/in/marianne-barton-1307/) 
 
-### ⚡ Fun fact: I spent a month working and taking care of elephants. 🐘
+- 😄 Pronouns: she/her
 
+- ⚡ Fun fact: I spent a month working and taking care of elephants. 🐘
 <!--
 **mhbarton/mhbarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-💡
-
