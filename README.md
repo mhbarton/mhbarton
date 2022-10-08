@@ -18,17 +18,17 @@ I am currently halfway through the Front-End Software Program with [Turing Schoo
 - Object-Oriented Programming (OOP)
 - Communication and Collaboration
 
-### Getting to know a little more about me:
+### Getting to know a little more about me ⤵
 
-- 🎉 I am excited about edTech and accessibility. As a former educator 📚 I'm very interested in making learning more engaging and beneficial for students and helping educators take on a tough job!
+- 🎉 I am excited about edTech and accessibility. As a former educator 📚, I'm very interested in making learning more engaging and beneficial for students and helping educators take on a tough job!
 
 - 💬 Ask me about education and how we can better offer learning opportunities for future generations!
 
 - 📫 How to reach me: mhood24@gmail.com | [LinkedIn](https://www.linkedin.com/in/marianne-barton-1307/) 
 
-- 😄 Pronouns: she/her
+- 😄 My Pronouns: she/her
 
-- ⚡ Fun fact: I spent a month working and taking care of elephants. 🐘
+- ⚡ Fun fact: I spent a month working with and taking care of elephants. 🐘
 <!--
 **mhbarton/mhbarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
