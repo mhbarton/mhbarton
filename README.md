@@ -1,6 +1,15 @@
 ![Sunflower Header](https://user-images.githubusercontent.com/102000070/194622610-a4330c3d-feab-4681-bdc1-bfb8c765195c.png)
 
-I am currently finishing my education in the Front-End Software Program with [Turing School of Software and Design](https://turing.edu/). 
+I am currently completing my certificate from the Front-End Software Program with [Turing School of Software and Design](https://turing.edu/). 
+
+<div align="center">
+  <a href="https://github.com/mhbarton/github-readme-stats">
+    <img alt="Marianne's GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=mhbarton&theme=gotham&show_icons=true" />
+  </a>
+  <a href="https://github.com/mhbarton/github-readme-stats">
+    <img alt="Marianne's Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhbarton&theme=gotham&layout=compact" />
+  </a>
+</div>
 
 ### Technologies:
 #### Languages:
@@ -62,8 +71,16 @@ I am currently finishing my education in the Front-End Software Program with [Tu
 
 - 💬 Ask me about education and how we can better offer learning opportunities for future generations!
 
-- 📫 How to reach me: [Gmail](mhood24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marianne-barton-1307/) 
+- 📫 How to reach me: 
+<div align='center'>
 
+  <a href="https://www.linkedin.com/in/marianne-barton-1307/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
+  <a href="mailto: mhood24@gmail.com">
+    ![mhood24@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        
+  </a>
+  
+</div>
 - 😄 My Pronouns: she/her
 
 - ⚡ Fun fact: I spent a month working with and taking care of elephants. 🐘
