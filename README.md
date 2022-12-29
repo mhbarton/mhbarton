@@ -17,6 +17,7 @@ I am currently completing my certificate from the Front-End Software Program wit
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Framework/Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -71,6 +72,10 @@ I am currently completing my certificate from the Front-End Software Program wit
 
 - 💬 Ask me about education and how we can better offer learning opportunities for future generations!
 
+- 😄 My Pronouns: she/her
+
+- ⚡ Fun fact: I spent a month working with and taking care of elephants. 🐘
+
 - 📫 How to reach me: 
 <div align='center'>
 
@@ -81,9 +86,6 @@ I am currently completing my certificate from the Front-End Software Program wit
   </a>
   
 </div>
-- 😄 My Pronouns: she/her
-
-- ⚡ Fun fact: I spent a month working with and taking care of elephants. 🐘
 <!--
 **mhbarton/mhbarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
