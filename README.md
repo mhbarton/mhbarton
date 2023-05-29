@@ -1,6 +1,7 @@
 <!-- ![Sunflower Header](https://user-images.githubusercontent.com/102000070/194622610-a4330c3d-feab-4681-bdc1-bfb8c765195c.png) -->
 ![Blue Floral Header](https://user-images.githubusercontent.com/102000070/241809258-bf1af6c0-4e40-4c9c-8be1-3ea666fe6ddd.png)
-I am currently completing my certificate from the Front-End Software Program with [Turing School of Software and Design](https://turing.edu/). 
+
+I have completed my certificate in Front-End Software Development from the [Turing School of Software and Design](https://turing.edu/). 
 
 <div align="center">
   <a href="https://github.com/mhbarton/github-readme-stats">
